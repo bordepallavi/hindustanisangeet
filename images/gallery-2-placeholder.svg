@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800">
+<rect width="1200" height="800" fill="#eee5d7"/>
+<circle cx="600" cy="310" r="170" fill="#d5b982" opacity=".45"/>
+<path d="M360 590 Q600 430 840 590" fill="none" stroke="#762f32" stroke-width="18" opacity=".75"/>
+<path d="M480 270 Q600 190 720 270" fill="none" stroke="#762f32" stroke-width="12" opacity=".65"/>
+<text x="600" y="670" text-anchor="middle" font-family="Georgia,serif" font-size="44" fill="#2d241f">Practice & Performance</text>
+<text x="600" y="720" text-anchor="middle" font-family="Arial,sans-serif" font-size="22" fill="#70665e">Replace with your photograph</text>
+</svg>
